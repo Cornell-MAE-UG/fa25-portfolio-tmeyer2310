@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Thomas Meyer>
+title: Thomas Meyer
 ---
 
 ## About Me
