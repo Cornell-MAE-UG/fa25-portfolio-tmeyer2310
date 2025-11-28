@@ -13,25 +13,26 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in math and physics. Passionate about space exploration, aeronautics and energy systems. Eager to get to work and apply my knowledge to real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.76/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
+- **Athens Academy**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [May, 2023]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **CAD Design:** Autodesk Fusion 360, Autodesk Inventor, SolidWorks, PTC Creo, Onshape
+- **Analysis:** ANSYS, Simulink
+- **Programming:** Python, MATLAB, Java  
+- **Tools:** 3D Printing, Laser Cutting, Machine Shop  
 
 ---
 
@@ -49,8 +50,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
+- **Ashlawn Energy - Mechnical Engineering Intern**  
+  [June, 2025] - [Present]  
   - Responsibility 1  
   - Responsibility 2  
 
