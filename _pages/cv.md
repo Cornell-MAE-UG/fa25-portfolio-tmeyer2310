@@ -21,6 +21,7 @@ Aspiring engineering student with a strong foundation in math and physics. Passi
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   GPA: 3.76/4.0 | Graduation: May, 2027
+  Honors: Meinig Family Cornell National Scholars
 
 - **Athens Academy**  
   *High School Diploma*  
@@ -29,11 +30,11 @@ Aspiring engineering student with a strong foundation in math and physics. Passi
 ---
 
 #### Skills
-- **CAD Design:** Autodesk Fusion 360, Autodesk Inventor, SolidWorks, PTC Creo, Onshape
-- **Analysis:** ANSYS, Simulink
-- **Programming:** Python, MATLAB, Java  
-- **Tools:** 3D Printing, Laser Cutting, Machine Shop  
-
+- **CAD & Design:** Autodesk: Inventor, Fusion 360, Auto CAD, DWG TrueView; SOLIDWORKS; PTC: Onshape, CREO;
+- **Coding & Analysis:** MATLAB, Simulink, Python, Matplotlib; Java; ANSYS (Beg), NASTRAN (Beg); LabVIEW, LaTex, Excel
+- **Prototyping:** 3D Printing; Laser Cutting: Falcon Design Space; CNC Routing; Gold electroplating; Machine Shop;
+- **Other:** ANSYS Granta; Arduino; Autodesk Design Review; Github; VS Code; Canva; CapCut; First Aid; CPR
+  
 ---
 
 #### Projects
@@ -52,9 +53,23 @@ Aspiring engineering student with a strong foundation in math and physics. Passi
 #### Work Experience
 - **Ashlawn Energy - Mechnical Engineering Intern**  
   [June, 2025] - [Present]  
-  - Responsibility 1  
-  - Responsibility 2  
-
+  - Calculated effects of viscosity on back pressure in the stack and ran pressure tests on the full stack cell assembly
+  - Designed and assembled a conductivity probe to measure the conductivity of cell membrane at discrete points  
+  - Set up and calibrated Laser cutter and software as well as gold plating experimental setup to manufacture parts
+  - Developed CAD model for single cell prototype to model the system and cut new precise gaskets to prevent leaks
+- **Huisken Lab - Research Intern**  
+  [June, 2024] - [July, 2024]  
+  - Designed and prototyped a new base plate compatible with any stage configuration for the Flamingo microscope.
+  - Developed a mounting adaptor for the rotational stage to better the stability and decrease error in the imaging.
+  - Created and printed a different adaptor and baseplate to fit another rotational stage for imaging large samples.
+  - Formulated a system of labeling and sorting cables to facilitate the assembly of new Flamingo electronics boxes.
+- **Amikka Learning - Test Prep Tutor**  
+  [July, 2024] - [November, 2025]  
+  - Taught Math and English for both the ACT and SAT to help students prepare for the college application process.
+  - Designed individually targeted lesson plans to help each student maximize their poten􀆟al and meet their goals.
+  - Evaluated students’ progress and adjusted lessons based on feedback and tested performance of each student.
+  - Coached students on efficient tes􀆟ng techniques and methods for solving difficult problems and managing 􀆟me.
+  
 ---
 
 #### Achievements & Certifications
