@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
+title: Fluid Mechanical Dissection
+description: Analysis of a Two-Stage Rocking Piston Pump
 technologies: [SolidWorks, Machining]
 image: /assets/images/spaceship-design.jpg
 ---
