@@ -3,7 +3,7 @@ layout: project
 title: Fluid Mechanical Dissection
 description: Analysis of a Two-Stage Rocking Piston Pump
 technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/IMG_5897-removebg-preview.png
 ---
 
 
