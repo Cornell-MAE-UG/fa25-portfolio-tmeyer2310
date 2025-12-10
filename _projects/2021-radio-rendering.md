@@ -38,6 +38,14 @@ Safety Factor for Cracking = 6.6152
 Safety Factor for Fatigue = 2.3316
 Deflection = 0.2866
 
+FEM Results (ANSYS Mechanical)
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Displacement.png" | relative_url }}){: .inline-image-r style="width: 1000px"}
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_StrainProbe.png" | relative_url }}){: .inline-image-r style="width: 1000px"}
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Stress.png" | relative_url }}){: .inline-image-r style="width: 1000px"}
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Stress2.png" | relative_url }}){: .inline-image-r style="width: 1000px"}
+
+
+
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 
 ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/WrenchDrawing.png" | relative_url }}){: .inline-image-r style="width: 1000px"}
