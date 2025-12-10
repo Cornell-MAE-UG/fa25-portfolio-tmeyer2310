@@ -6,7 +6,19 @@ technologies: [Autodesk Fusion]
 image: /assets/images/RefWrench v3.png
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
+For a class, we were asked design a Torque Wrench.  
+
+Requirements: 
+The wrench must sustain a fully reversed torque of
+  T = ±600 in-lbf for 106 cycles. 
+  Design will include selecting an appropriate material and dimensions to meet or exceed the following:
+    1. attain at least 1.0 mV/V output at the rated torque of 600 in-lbf
+    2. safety factor of Xo = 4 for yield or brittle failure (you pick which criterion based onwhether you are using a brittle or ductile material)
+    3. safety factor of XK = 2 for c rack growth from an assumed crack of depth 0.04 inches (1 mm).
+    4. fatigue stress safety factor of XS = 1
+    5. material must be a steel, aluminum or titanium alloy.
+
+
 
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 
