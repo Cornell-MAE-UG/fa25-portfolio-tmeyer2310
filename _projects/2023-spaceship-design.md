@@ -2,7 +2,7 @@
 layout: project
 title: Fluid Mechanical Dissection
 description: Analysis of a Two-Stage Rocking Piston Pump
-technologies: [CapCut]
+technologies: [MATLAB, CapCut]
 image: /assets/images/IMG_5897-removebg-preview.png
 ---
 
