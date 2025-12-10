@@ -6,7 +6,7 @@ technologies: [Autodesk Fusion]
 image: /assets/images/RefWrench v3.png
 ---
 
-For a class, we were asked design a Torque Wrench.  
+For a class, we were asked design a Torque Wrench. For this project, I did design requirement calculations using MATLAB, the CAD design in Fusion 360 and the FEM analysis in ANSYS Mechanical. I went through eight iterations before settling on the design shown below. 
 
 Requirements: 
 The wrench must sustain a fully reversed torque of
