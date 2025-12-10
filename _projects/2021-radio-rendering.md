@@ -44,6 +44,12 @@ FEM Results (ANSYS Mechanical)
 ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Stress.png" | relative_url }}){: style="width: 1000px"}
 ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Stress2.png" | relative_url }}){: style="width: 1000px"}
 
+CAD Images
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/RefWrench8 v0.png" | relative_url }}){: style="width:1000px;"}
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/RefWrench8Drawingv0.png" | relative_url }}){:  style="width: 1000px"}
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8.png" | relative_url }}){: style="width: 1000px"}
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_2.png" | relative_url }}){: style="width: 1000px"}
+
 
 
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
