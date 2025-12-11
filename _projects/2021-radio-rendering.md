@@ -64,13 +64,13 @@ Contour plot of maximum principal stress from FEM
 
 
 ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_StrainProbe.png" | relative_url }}){:  style="width: 1000px"}
-
+Strain at the Strain Probe: 8.7027e-005 in/in (x-axis)
 
 ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Stress.png" | relative_url }}){: style="width: 1000px"}
-Normal Stress
+Normal Stress: Max Normal Stress = 25455psi
 
-![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Stress2.png" | relative_url }}){: style="width: 1000px"}
-Normal Stress
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Displacement.png" | relative_url }}){: style="width: 1000px"}
+Total Displacement: Max deflection = 0.18633
 
 
 
