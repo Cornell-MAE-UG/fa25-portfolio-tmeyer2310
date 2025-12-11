@@ -19,17 +19,17 @@ The wrench must sustain a fully reversed torque of
     5. material must be a steel, aluminum or titanium alloy.
 
 Geometry:
-L = 14;	% length from drive to where load applied (inches) 
-h = 0.5;		% width
-b = 0.425;	% thickness
-c = 1.0;	% distance from center of drive to center of strain gauge 
+L = 14;	% length from drive to where load applied (inches)  
+h = 0.5;		% width   
+b = 0.425;	% thickness  
+c = 1.0;	% distance from center of drive to center of strain gauge  
 
-Material Properties for AISI 4340
-E = 30.9e6;	% Young's modulus (psi)
-nu = 0.285;	% Poisson's ratio
-su = 385.e3;	% tensile strength use yield or ultimate depending on material (psi) 
-KIC = 87.4e3;	% fracture toughness (psi sqrt(in))
-sfatigue = 79.e3;	% fatigue strength from Granta for 10^6 cycles 
+Material Properties for AISI 4340  
+E = 30.9e6;	% Young's modulus (psi)  
+nu = 0.285;	% Poisson's ratio  
+su = 385.e3;	% tensile strength use yield or ultimate depending on material (psi)  
+KIC = 87.4e3;	% fracture toughness (psi sqrt(in))  
+sfatigue = 79.e3;	% fatigue strength from Granta for 10^6 cycles  
 
 Results (Predicted from Beam Theory Hand Calculations)
 Output voltage at rated troque (600 in-lbf) = 1.0182 
@@ -38,17 +38,25 @@ Safety Factor for Cracking = 6.6152
 Safety Factor for Fatigue = 2.3316
 Deflection = 0.2866
 
+CAD Images
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/RefWrench8 v0.png" | relative_url }}){: style="width:1000px;"}
+Final Design Rendering
+
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/RefWrench8Drawingv0.png" | relative_url }}){:  style="width: 1000px"}
+Final Design Dimensioned Drawing
+
+//![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8.png" | relative_url }}){: style="width: 1000px"}
+
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_2.png" | relative_url }}){: style="width: 1000px"}
+Fusion 360 CAD
+
 FEM Results (ANSYS Mechanical)
 ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Displacement.png" | relative_url }}){: style="width:1000px;"}
 ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_StrainProbe.png" | relative_url }}){:  style="width: 1000px"}
 ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Stress.png" | relative_url }}){: style="width: 1000px"}
 ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Stress2.png" | relative_url }}){: style="width: 1000px"}
 
-CAD Images
-![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/RefWrench8 v0.png" | relative_url }}){: style="width:1000px;"}
-![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/RefWrench8Drawingv0.png" | relative_url }}){:  style="width: 1000px"}
-![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8.png" | relative_url }}){: style="width: 1000px"}
-![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_2.png" | relative_url }}){: style="width: 1000px"}
+
 
 
 
