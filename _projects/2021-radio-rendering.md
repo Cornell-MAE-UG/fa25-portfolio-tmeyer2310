@@ -50,12 +50,27 @@ Final Design Dimensioned Drawing
 ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_2.png" | relative_url }}){: style="width: 1000px"}
 Fusion 360 CAD
 
-FEM Results (ANSYS Mechanical)
-![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Displacement.png" | relative_url }}){: style="width:1000px;"}
-![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_StrainProbe.png" | relative_url }}){:  style="width: 1000px"}
-![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Stress.png" | relative_url }}){: style="width: 1000px"}
-![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Stress2.png" | relative_url }}){: style="width: 1000px"}
 
+Loading and Boundary Conditions for FEM
+A force of 42.8lbf is applied in the y direction at the handle 13in from the wrench driver (in the x direction). This yields the 600 lbf-in torque. Displacement boundary conditions of 0in are set to the faces of the driver. This constrains the problem and lets us see the normal stress on the wrench in the finite element model. See image below. 
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Loading.png" | relative_url }}){: style="width:1000px;"}
+
+FEM Results (ANSYS Mechanical)
+
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Strain.png" | relative_url }}){:  style="width: 1000px"}
+Normal strain contours (in the strain gauge direction) from FEM
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_PrincipleStress.png" | relative_url }}){:  style="width: 1000px"}
+Contour plot of maximum principal stress from FEM
+
+
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_StrainProbe.png" | relative_url }}){:  style="width: 1000px"}
+
+
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Stress.png" | relative_url }}){: style="width: 1000px"}
+Normal Stress
+
+![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_Stress2.png" | relative_url }}){: style="width: 1000px"}
+Normal Stress
 
 
 
