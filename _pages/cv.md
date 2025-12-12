@@ -31,7 +31,8 @@ Aspiring engineering student with a strong foundation in math and physics. Passi
 
 #### Skills
 - **CAD & Design:** Autodesk: Inventor, Fusion 360, Auto CAD, DWG TrueView; SOLIDWORKS; PTC: Onshape, CREO;
-- **Coding & Analysis:** MATLAB, Simulink, Python, Matplotlib; Java; ANSYS (Beg), NASTRAN (Beg); LabVIEW, LaTex, Excel
+- **Coding:** MATLAB, Python, Matplotlib, Java
+- **Analysis:** ANSYS, Simulink, NASTRAN (Beg); LabVIEW, LaTeX, Excel
 - **Prototyping:** 3D Printing; Laser Cutting: Falcon Design Space; CNC Routing; Gold electroplating; Machine Shop;
 - **Other:** ANSYS Granta; Arduino; Autodesk Design Review; Github; VS Code; Canva; CapCut; First Aid; CPR
   
