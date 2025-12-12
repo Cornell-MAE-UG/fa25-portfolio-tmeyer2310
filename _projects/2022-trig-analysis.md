@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
+title: Analysis of Quadcopter Toy
+description: System Dynamics Final Project
 technologies: [MATLAB]
 image: /assets/images/IMG_5809-removebg-preview.png
 ---
