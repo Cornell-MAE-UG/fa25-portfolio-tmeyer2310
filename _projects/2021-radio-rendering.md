@@ -2,7 +2,7 @@
 layout: project
 title: Torque Wrench Design and Analysis
 description: Engineering Materials Final Design Project
-technologies: [Autodesk Fusion]
+technologies: [Autodesk Fusion, ANSYS, MATLAB]
 image: /assets/images/RefWrench8 v0.png
 ---
 
