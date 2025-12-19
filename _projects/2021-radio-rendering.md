@@ -45,7 +45,7 @@ Final Design Rendering
 ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/RefWrench8Drawingv0.png" | relative_url }}){:  style="width: 1000px"}
 Final Design Dimensioned Drawing
 
-//![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8.png" | relative_url }}){: style="width: 1000px"}
+
 
 ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/TorqueWrenchV8_2.png" | relative_url }}){: style="width: 1000px"}
 Fusion 360 CAD
