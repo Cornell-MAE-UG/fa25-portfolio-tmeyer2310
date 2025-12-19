@@ -35,19 +35,6 @@ Aspiring engineering student with a strong foundation in math and physics. Passi
 - **Analysis:** ANSYS, Simulink, NASTRAN (Beg); LabVIEW, LaTeX, Excel
 - **Prototyping:** 3D Printing; Laser Cutting: Falcon Design Space; CNC Routing; Gold electroplating; Machine Shop;
 - **Other:** ANSYS Granta; Arduino; Autodesk Design Review; Github; VS Code; Canva; CapCut; First Aid; CPR
-  
----
-
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
 
 ---
 
@@ -73,15 +60,9 @@ Aspiring engineering student with a strong foundation in math and physics. Passi
   
 ---
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
-
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Captain of Buds Ultimate (Club Frisbee)
+- Member of Cornell Running Club
 
 ---
 
