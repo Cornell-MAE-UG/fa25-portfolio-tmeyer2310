@@ -1,12 +1,12 @@
 ---
 layout: project
-title: Carrier Drone
-description: Cornell University Autonomous Drone Project Fall 2024
-technologies: [Autodesk Fusion, Onshape, CNC, 3D Printing]
+title: Single Cell Prototype
+description: Ashlawn Energy
+technologies: [Autodesk Fusion, Autodesk Inventor, Laser Cutting]
 image: /assets/images/RefWrench8 v0.png
 ---
 
-Test Test Test test
+Text here
 
 
 
