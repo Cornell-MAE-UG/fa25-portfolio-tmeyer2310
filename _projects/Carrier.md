@@ -1,4 +1,3 @@
-
 ---
 layout: project
 title: Torque Wrench Design and Analysis
