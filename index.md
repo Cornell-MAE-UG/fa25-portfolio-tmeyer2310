@@ -9,7 +9,7 @@ title: Thomas Meyer
 ![Profile Picture]({{ "assets/images/profile-pic.JPG" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am a Junior Mechanical and Aerospace Engineering Student at Cornell University. I am interested in areas of Aeronautics, Space Exploration, Vehicle systems and energy. Specifically, I enjoy designing and analyzing mechanical systems using calculations, simulations and experimentation. In my free time, I enjoy running, hiking and playing Ultimate Frisbee. 
+My name is {{ site.name }}, and I am a Junior Mechanical and Aerospace Engineering Student at Cornell University. I am interested in areas of Aeronautics, Space Exploration, Vehicle systems and Energy. Specifically, I enjoy designing and analyzing mechanical systems using calculations, simulations and experimentation. In my free time, I enjoy running, hiking and playing Ultimate Frisbee. 
 
 Please feel free to reach out at tm676@cornell.edu.
 
