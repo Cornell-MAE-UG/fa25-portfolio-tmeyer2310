@@ -41,7 +41,7 @@ Aspiring engineering student with a strong foundation in math and physics. Passi
 
 #### Work Experience
 - **Ashlawn Energy - Mechnical Engineering Intern**  
-  [June, 2025] - [Present]  
+  [June, 2025] - [December, 2025]  
   - Calculated effects of viscosity on back pressure in the stack and ran pressure tests on the full stack cell assembly
   - Designed and assembled a conductivity probe to measure the conductivity of cell membrane at discrete points  
   - Set up and calibrated Laser cutter and software as well as gold plating experimental setup to manufacture parts
@@ -63,6 +63,7 @@ Aspiring engineering student with a strong foundation in math and physics. Passi
 
 #### Extracurricular Activities
 - Captain of Buds Ultimate (Club Frisbee)
+- Mechanical Subteam Cornell University Autonomous Drone
 - Member of Cornell Running Club
 
 ---
