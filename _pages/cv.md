@@ -21,6 +21,7 @@ Aspiring engineering student with a strong foundation in math and physics. Passi
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   GPA: 3.76/4.0 | Graduation: May, 2027
+  
   Honors: Meinig Family Cornell National Scholars
 
 - **Athens Academy**  
