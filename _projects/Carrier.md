@@ -16,7 +16,8 @@ This 30in prop quadcopter has 70kg of Thrust and weighs 13kg. With meter long de
 
 I designed, prototyped and assembled the detachable legs. Using 3D printed clamps I designed in PTC Onshape, I assembled and mounted the legs to the frame. During the flight test, they proved to be both functional and durable. In addition to the legs, I worked on prototyping plates for the frame and printing first iterations to ensure everything fit as designed. I assisted with the CNC routing of the final parts and assembling the entire structural frame, including clamping the tubes, mounting the motors and propellors and placing the electronics and corresponding wrrings  in locations that ensured the balance and stability of the drone. 
 
-![Leg Detatchable Mount CAD]({{ "/assets/images/Carrier CAD 2.png" | relative_url }}){: style="width:1000px;"} Leg Detatchable Mount CAD
+Leg Mount CAD V1 ![Leg Detatchable Mount CAD]({{ "/assets/images/Carrier CAD 2.png" | relative_url }}){: style="width:1000px;"} 
+Leg Mount CAD V2 (Detachable) ![Leg Detatchable Mount CAD]({{ "/assets/images/Clamp.png" | relative_url }}){: style="width:1000px;"}
 
 Read more about Carrier Drone (EY009): [cuad.info/drones](https://cuad.info/drones)
 
