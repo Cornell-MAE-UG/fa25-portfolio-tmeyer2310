@@ -6,12 +6,17 @@ technologies: [Autodesk Fusion, Onshape, CNC, 3D Printing]
 image: /assets/images/Carrier2.png
 ---
 
+Carrier Drone ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/RefWrench8 v0.png" | relative_url }}){: style="width:1000px;"} Final Design Rendering
+
 
 
 This 30in prop quadcopter has 70kg of Thrust and weighs 13kg. With meter long detachable legs, it can service numermous attachments and carry large payloads. The structural frame consists mainly of carbon fiber tubes chosen for their durability and strength to weight ratio. The carbon fiber plates as well as the custom attachments and mounts are manufactured on our CNC router and 3D printers in house respectively. 
 
+CAD Images ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/RefWrench8 v0.png" | relative_url }}){: style="width:1000px;"} Final Design Rendering
+
 I designed, prototyped and assembled the detachable legs. Using 3D printed clamps I designed in PTC Onshape, I assembled and mounted the legs to the frame. During the flight test, they proved to be both functional and durable. In addition to the legs, I worked on prototyping plates for the frame and printing first iterations to ensure everything fit as designed. I assisted with the CNC routing of the final parts and assembling the entire structural frame, including clamping the tubes, mounting the motors and propellors and placing the electronics and corresponding wrrings  in locations that ensured the balance and stability of the drone. 
 
+Leg Clamp CAD ![Dimensioned Drawing of Torque Wrench Design]({{ "/assets/images/RefWrench8 v0.png" | relative_url }}){: style="width:1000px;"} Final Design Rendering
 
 Read more about Carrier Drone (EY009): [cuad.info/drones](https://cuad.info/drones)
 
