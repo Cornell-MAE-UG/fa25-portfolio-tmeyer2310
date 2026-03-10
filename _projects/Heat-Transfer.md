@@ -3,7 +3,7 @@ layout: project
 title: Heat Transfer Project
 description: Heat Transfer Problem
 technologies: []
-image: 
+image: /assets/images/heat.png
 ---
 
 [Here is my Heat Transfer Problem Set]({{ "/assets/HW2.pdf" | relative_url }}) in PDF format.
