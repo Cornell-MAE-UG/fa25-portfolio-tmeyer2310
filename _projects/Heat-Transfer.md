@@ -6,9 +6,8 @@ technologies: []
 image: 
 ---
 
+[Here is my Heat Transfer Problem Set]({{ "/assets/HW2.pdf" | relative_url }}) in PDF format.
 
-Here is my Heat Transfer Homework: 
-<a href="[https://drive.google.com/file/d/16spiC7umkkYN87v2Cd1uVcMVytpn6jCR/view?usp=sharin](https://drive.google.com/file/d/1IzZViKFXsUTxbySewn9-jSU3VocCSXG4/view?usp=sharing)"> Here </a>
 
 In this assignment, we studied heat transfer via conduction and convection. We looked at a water heater and the effects of insulation on saving energy required to heat the water to a given temperature. With a small layer of foam insulation, characterized by a coefficient of thermal resistance, the energy required to heat the water is reduced by a factor of four (from 1767 J to 441 J). This shows how a small layer of insulation (~2 cm) makes a significant difference in energy costs for the water heat system. In this problem, we applied convection law for heat transfer via moving fluid and fourier's law for conduction in addition to a steady state energy balance on a control volume. 
 
