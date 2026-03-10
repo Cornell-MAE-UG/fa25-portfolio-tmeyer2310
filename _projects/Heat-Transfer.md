@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Heat Transfer Project
+title: Heat Transfer Homework Set
 description: Heat Transfer Problem
 technologies: []
 image: /assets/images/heat.png
